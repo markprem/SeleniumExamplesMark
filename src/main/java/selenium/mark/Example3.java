@@ -11,6 +11,6 @@ public class Example3
 
         driver.get("https://selenium.dev");
 
-        //driver.quit();
+     
     }
 }
